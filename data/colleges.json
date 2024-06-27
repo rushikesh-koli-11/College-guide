@@ -1,0 +1,772 @@
+[
+    {
+        "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+        "location": "Mumbai",
+        "category": "General",
+        "department": "Computer Engineering",
+        "cutoff": 85
+    },
+    {
+        "name": "College B",
+        "location": "Pune",
+        "category": "OBC",
+        "department": "Civil Engineering",
+        "cutoff": 80
+    },
+    {
+        "name": "College C",
+        "location": "Nagpur",
+        "category": "SC",
+        "department": "Electrical Engineering",
+        "cutoff": 75
+    },
+    {
+        "name": "College D",
+        "location": "Nashik",
+        "category": "ST",
+        "department": "Electronics and Telecommunication Engineering",
+        "cutoff": 78
+    },
+    {
+        "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+        "location": "Aurangabad",
+        "category": "VJNT",
+        "department": "Mechanical Engineering",
+        "cutoff": 8
+    },
+        {
+            "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+            "location": "Mumbai",
+            "category": "General",
+            "department": "Computer Engineering",
+            "cutoff": 85
+        },
+        {
+            "name": "Veermata Jijabai Technological Institute (VJTI)",
+            "location": "Mumbai",
+            "category": "General",
+            "department": "Electronics and Telecommunication Engineering",
+            "cutoff": 90
+        },
+        {
+            "name": "College of Engineering, Pune (COEP)",
+            "location": "Pune",
+            "category": "General",
+            "department": "Civil Engineering",
+            "cutoff": 92
+        },
+        {
+            "name": "Visvesvaraya National Institute of Technology (VNIT)",
+            "location": "Nagpur",
+            "category": "General",
+            "department": "Electrical Engineering",
+            "cutoff": 88
+        },
+        {
+            "name": "Government College of Engineering, Aurangabad",
+            "location": "Aurangabad",
+            "category": "General",
+            "department": "Computer Engineering",
+            "cutoff": 87
+        },
+        {
+            "name": "Sardar Patel College of Engineering (SPCE)",
+            "location": "Mumbai",
+            "category": "OBC",
+            "department": "Mechanical Engineering",
+            "cutoff": 84
+        },
+        {
+            "name": "Institute of Chemical Technology (ICT)",
+            "location": "Mumbai",
+            "category": "OBC",
+            "department": "Civil Engineering",
+            "cutoff": 89
+        },
+        {
+            "name": "Bharati Vidyapeeth Deemed University College of Engineering, Pune",
+            "location": "Pune",
+            "category": "OBC",
+            "department": "Electronics and Telecommunication Engineering",
+            "cutoff": 86
+        },
+        {
+            "name": "Walchand College of Engineering, Sangli",
+            "location": "Sangli",
+            "category": "OBC",
+            "department": "Mechanical Engineering",
+            "cutoff": 88
+        },
+        {
+            "name": "Army Institute of Technology (AIT), Pune",
+            "location": "Pune",
+            "category": "ST",
+            "department": "Computer Engineering",
+            "cutoff": 91
+        },
+        {
+            "name": "Dr. Babasaheb Ambedkar Technological University, Lonere",
+            "location": "Raigad",
+            "category": "ST",
+            "department": "Electrical Engineering",
+            "cutoff": 83
+        },
+        {
+            "name": "Fr. Conceicao Rodrigues College of Engineering, Mumbai",
+            "location": "Mumbai",
+            "category": "ST",
+            "department": "Civil Engineering",
+            "cutoff": 82
+        },
+        {
+            "name": "K. J. Somaiya College of Engineering, Mumbai",
+            "location": "Mumbai",
+            "category": "SC",
+            "department": "Computer Engineering",
+            "cutoff": 89
+        },
+        {
+            "name": "Maharashtra Institute of Technology (MIT), Pune",
+            "location": "Pune",
+            "category": "SC",
+            "department": "Electronics and Telecommunication Engineering",
+            "cutoff": 84
+        },
+        {
+            "name": "PES Modern College of Engineering, Pune",
+            "location": "Pune",
+            "category": "SC",
+            "department": "Mechanical Engineering",
+            "cutoff": 85
+        },
+        {
+            "name": "Rajarambapu Institute of Technology, Sangli",
+            "location": "Sangli",
+            "category": "NT",
+            "department": "Civil Engineering",
+            "cutoff": 87
+        },
+        {
+            "name": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",
+            "location": "Nanded",
+            "category": "NT",
+            "department": "Electrical Engineering",
+            "cutoff": 86
+        },
+        {
+            "name": "Terna Engineering College, Navi Mumbai",
+            "location": "Navi Mumbai",
+            "category": "NT",
+            "department": "Mechanical Engineering",
+            "cutoff": 90
+        },
+        {
+            "name": "Vishwakarma Institute of Technology (VIT), Pune",
+            "location": "Pune",
+            "category": "NT",
+            "department": "Civil Engineering",
+            "cutoff": 85
+        },
+        {
+            "name": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur",
+            "location": "Nagpur",
+            "category": "NT",
+            "department": "Electronics and Telecommunication Engineering",
+            "cutoff": 88
+        },
+        {
+            "name": "Zeal College of Engineering and Research, Pune",
+            "location": "Pune",
+            "category": "NT",
+            "department": "Computer Engineering",
+            "cutoff": 86
+        },
+        {
+            "name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+            "location": "Pune",
+            "category": "General",
+            "department": "Civil Engineering",
+            "cutoff": 84
+        },
+        {
+            "name": "D. Y. Patil College of Engineering, Pune",
+            "location": "Pune",
+            "category": "General",
+            "department": "Electronics and Telecommunication Engineering",
+            "cutoff": 83
+        },
+        {
+            "name": "Government College of Engineering, Chandrapur",
+            "location": "Chandrapur",
+            "category": "General",
+            "department": "Mechanical Engineering",
+            "cutoff": 87
+        },
+        {
+            "name": "Karmaveer Bhaurao Patil College of Engineering, Satara",
+            "location": "Satara",
+            "category": "General",
+            "department": "Computer Engineering",
+            "cutoff": 82
+        },
+        {
+            "name": "Laxminarayan Institute of Technology (LIT), Nagpur",
+            "location": "Nagpur",
+            "category": "General",
+            "department": "Civil Engineering",
+            "cutoff": 91
+        },
+        {
+            "name": "MGM's Jawaharlal Nehru Engineering College, Aurangabad",
+            "location": "Aurangabad",
+            "category": "General",
+            "department": "Electrical Engineering",
+            "cutoff": 86
+        },
+        {
+            "name": "Pune Institute of Computer Technology (PICT), Pune",
+            "location": "Pune",
+            "category": "General",
+            "department": "Mechanical Engineering",
+            "cutoff": 89
+        },
+        {
+            "name": "Rizvi College of Engineering, Mumbai",
+            "location": "Mumbai",
+            "category": "General",
+            "department": "Computer Engineering",
+            "cutoff": 90
+        },
+        {
+            "name": "Sinhgad College of Engineering, Pune",
+            "location": "Pune",
+            "category": "General",
+            "department": "Electronics and Telecommunication Engineering",
+            "cutoff": 88
+        },
+            {
+                "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+                "location": "Mumbai",
+                "category": "SC",
+                "department": "Civil Engineering",
+                "cutoff": 92
+            },
+            {
+                "name": "Veermata Jijabai Technological Institute (VJTI)",
+                "location": "Mumbai",
+                "category": "General",
+                "department": "Mechanical Engineering",
+                "cutoff": 89
+            },
+            {
+                "name": "College of Engineering, Pune (COEP)",
+                "location": "Pune",
+                "category": "ST",
+                "department": "Electrical Engineering",
+                "cutoff": 86
+            },
+            {
+                "name": "Visvesvaraya National Institute of Technology (VNIT)",
+                "location": "Nagpur",
+                "category": "OBC",
+                "department": "Electronics and Telecommunication Engineering",
+                "cutoff": 87
+            },
+            {
+                "name": "Government College of Engineering, Aurangabad",
+                "location": "Aurangabad",
+                "category": "NT",
+                "department": "Computer Engineering",
+                "cutoff": 85
+            },
+            {
+                "name": "Sardar Patel College of Engineering (SPCE)",
+                "location": "Mumbai",
+                "category": "General",
+                "department": "Electronics and Telecommunication Engineering",
+                "cutoff": 90
+            },
+            {
+                "name": "Institute of Chemical Technology (ICT)",
+                "location": "Mumbai",
+                "category": "SC",
+                "department": "Mechanical Engineering",
+                "cutoff": 88
+            },
+            {
+                "name": "Bharati Vidyapeeth Deemed University College of Engineering, Pune",
+                "location": "Pune",
+                "category": "General",
+                "department": "Civil Engineering",
+                "cutoff": 91
+            },
+            {
+                "name": "Walchand College of Engineering, Sangli",
+                "location": "Sangli",
+                "category": "OBC",
+                "department": "Computer Engineering",
+                "cutoff": 93
+            },
+            {
+                "name": "Army Institute of Technology (AIT), Pune",
+                "location": "Pune",
+                "category": "ST",
+                "department": "Electrical Engineering",
+                "cutoff": 94
+            },
+            {
+                "name": "Dr. Babasaheb Ambedkar Technological University, Lonere",
+                "location": "Raigad",
+                "category": "OBC",
+                "department": "Mechanical Engineering",
+                "cutoff": 84
+            },
+            {
+                "name": "Fr. Conceicao Rodrigues College of Engineering, Mumbai",
+                "location": "Mumbai",
+                "category": "General",
+                "department": "Electronics and Telecommunication Engineering",
+                "cutoff": 85
+            },
+            {
+                "name": "K. J. Somaiya College of Engineering, Mumbai",
+                "location": "Mumbai",
+                "category": "NT",
+                "department": "Civil Engineering",
+                "cutoff": 89
+            },
+            {
+                "name": "Maharashtra Institute of Technology (MIT), Pune",
+                "location": "Pune",
+                "category": "SC",
+                "department": "Computer Engineering",
+                "cutoff": 86
+            },
+            {
+                "name": "PES Modern College of Engineering, Pune",
+                "location": "Pune",
+                "category": "ST",
+                "department": "Mechanical Engineering",
+                "cutoff": 88
+            },
+            {
+                "name": "Rajarambapu Institute of Technology, Sangli",
+                "location": "Sangli",
+                "category": "OBC",
+                "department": "Electrical Engineering",
+                "cutoff": 90
+            },
+            {
+                "name": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",
+                "location": "Nanded",
+                "category": "General",
+                "department": "Computer Engineering",
+                "cutoff": 87
+            },
+            {
+                "name": "Terna Engineering College, Navi Mumbai",
+                "location": "Navi Mumbai",
+                "category": "SC",
+                "department": "Civil Engineering",
+                "cutoff": 82
+            },
+            {
+                "name": "Vishwakarma Institute of Technology (VIT), Pune",
+                "location": "Pune",
+                "category": "General",
+                "department": "Electronics and Telecommunication Engineering",
+                "cutoff": 83
+            },
+            {
+                "name": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur",
+                "location": "Nagpur",
+                "category": "NT",
+                "department": "Mechanical Engineering",
+                "cutoff": 92
+            },
+            {
+                "name": "Zeal College of Engineering and Research, Pune",
+                "location": "Pune",
+                "category": "General",
+                "department": "Civil Engineering",
+                "cutoff": 84
+            },
+            {
+                "name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+                "location": "Pune",
+                "category": "SC",
+                "department": "Electrical Engineering",
+                "cutoff": 86
+            },
+            {
+                "name": "D. Y. Patil College of Engineering, Pune",
+                "location": "Pune",
+                "category": "OBC",
+                "department": "Computer Engineering",
+                "cutoff": 93
+            },
+            {
+                "name": "Government College of Engineering, Chandrapur",
+                "location": "Chandrapur",
+                "category": "ST",
+                "department": "Electronics and Telecommunication Engineering",
+                "cutoff": 91
+            },
+            {
+                "name": "Karmaveer Bhaurao Patil College of Engineering, Satara",
+                "location": "Satara",
+                "category": "General",
+                "department": "Mechanical Engineering",
+                "cutoff": 87
+            },
+            {
+                "name": "Laxminarayan Institute of Technology (LIT), Nagpur",
+                "location": "Nagpur",
+                "category": "OBC",
+                "department": "Electrical Engineering",
+                "cutoff": 85
+            },
+            {
+                "name": "MGM's Jawaharlal Nehru Engineering College, Aurangabad",
+                "location": "Aurangabad",
+                "category": "General",
+                "department": "Computer Engineering",
+                "cutoff": 90
+            },
+            {
+                "name": "Pune Institute of Computer Technology (PICT), Pune",
+                "location": "Pune",
+                "category": "SC",
+                "department": "Mechanical Engineering",
+                "cutoff": 88
+            },
+            {
+                "name": "Rizvi College of Engineering, Mumbai",
+                "location": "Mumbai",
+                "category": "OBC",
+                "department": "Civil Engineering",
+                "cutoff": 82
+            },
+            {
+                "name": "Sinhgad College of Engineering, Pune",
+                "location": "Pune",
+                "category": "NT",
+                "department": "Electronics and Telecommunication Engineering",
+                "cutoff": 84
+            },
+                {
+                    "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+                    "location": "Mumbai",
+                    "category": "General",
+                    "department": "Mechanical Engineering",
+                    "cutoff": 95
+                },
+                {
+                    "name": "Veermata Jijabai Technological Institute (VJTI)",
+                    "location": "Mumbai",
+                    "category": "OBC",
+                    "department": "Electronics and Telecommunication Engineering",
+                    "cutoff": 91
+                },
+                {
+                    "name": "College of Engineering, Pune (COEP)",
+                    "location": "Pune",
+                    "category": "ST",
+                    "department": "Civil Engineering",
+                    "cutoff": 87
+                },
+                {
+                    "name": "Visvesvaraya National Institute of Technology (VNIT)",
+                    "location": "Nagpur",
+                    "category": "General",
+                    "department": "Computer Engineering",
+                    "cutoff": 89
+                },
+                {
+                    "name": "Government College of Engineering, Aurangabad",
+                    "location": "Aurangabad",
+                    "category": "SC",
+                    "department": "Electrical Engineering",
+                    "cutoff": 86
+                },
+                {
+                    "name": "Sardar Patel College of Engineering (SPCE)",
+                    "location": "Mumbai",
+                    "category": "NT",
+                    "department": "Mechanical Engineering",
+                    "cutoff": 92
+                },
+                {
+                    "name": "Institute of Chemical Technology (ICT)",
+                    "location": "Mumbai",
+                    "category": "General",
+                    "department": "Civil Engineering",
+                    "cutoff": 88
+                },
+                {
+                    "name": "Bharati Vidyapeeth Deemed University College of Engineering, Pune",
+                    "location": "Pune",
+                    "category": "OBC",
+                    "department": "Electronics and Telecommunication Engineering",
+                    "cutoff": 90
+                },
+                {
+                    "name": "Walchand College of Engineering, Sangli",
+                    "location": "Sangli",
+                    "category": "OBC",
+                    "department": "Computer Engineering",
+                    "cutoff": 93
+                },
+                {
+                    "name": "Army Institute of Technology (AIT), Pune",
+                    "location": "Pune",
+                    "category": "General",
+                    "department": "Electronics and Telecommunication Engineering",
+                    "cutoff": 87
+                },
+                {
+                    "name": "Dr. Babasaheb Ambedkar Technological University, Lonere",
+                    "location": "Raigad",
+                    "category": "ST",
+                    "department": "Mechanical Engineering",
+                    "cutoff": 84
+                },
+                {
+                    "name": "Fr. Conceicao Rodrigues College of Engineering, Mumbai",
+                    "location": "Mumbai",
+                    "category": "SC",
+                    "department": "Electrical Engineering",
+                    "cutoff": 85
+                },
+                {
+                    "name": "K. J. Somaiya College of Engineering, Mumbai",
+                    "location": "Mumbai",
+                    "category": "General",
+                    "department": "Computer Engineering",
+                    "cutoff": 91
+                },
+                {
+                    "name": "Maharashtra Institute of Technology (MIT), Pune",
+                    "location": "Pune",
+                    "category": "OBC",
+                    "department": "Civil Engineering",
+                    "cutoff": 89
+                },
+                {
+                    "name": "PES Modern College of Engineering, Pune",
+                    "location": "Pune",
+                    "category": "NT",
+                    "department": "Mechanical Engineering",
+                    "cutoff": 86
+                },
+                {
+                    "name": "Rajarambapu Institute of Technology, Sangli",
+                    "location": "Sangli",
+                    "category": "SC",
+                    "department": "Computer Engineering",
+                    "cutoff": 88
+                },
+                {
+                    "name": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",
+                    "location": "Nanded",
+                    "category": "General",
+                    "department": "Electronics and Telecommunication Engineering",
+                    "cutoff": 90
+                },
+                {
+                    "name": "Terna Engineering College, Navi Mumbai",
+                    "location": "Navi Mumbai",
+                    "category": "OBC",
+                    "department": "Civil Engineering",
+                    "cutoff": 85
+                },
+                {
+                    "name": "Vishwakarma Institute of Technology (VIT), Pune",
+                    "location": "Pune",
+                    "category": "ST",
+                    "department": "Computer Engineering",
+                    "cutoff": 92
+                },
+                {
+                    "name": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur",
+                    "location": "Nagpur",
+                    "category": "General",
+                    "department": "Electrical Engineering",
+                    "cutoff": 88
+                },
+                {
+                    "name": "Zeal College of Engineering and Research, Pune",
+                    "location": "Pune",
+                    "category": "NT",
+                    "department": "Mechanical Engineering",
+                    "cutoff": 94
+                },
+                {
+                    "name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+                    "location": "Pune",
+                    "category": "General",
+                    "department": "Electrical Engineering",
+                    "cutoff": 83
+                },
+                {
+                    "name": "D. Y. Patil College of Engineering, Pune",
+                    "location": "Pune",
+                    "category": "SC",
+                    "department": "Civil Engineering",
+                    "cutoff": 90
+                },
+                {
+                    "name": "Government College of Engineering, Chandrapur",
+                    "location": "Chandrapur",
+                    "category": "OBC",
+                    "department": "Electronics and Telecommunication Engineering",
+                    "cutoff": 82
+                },
+                {
+                    "name": "Karmaveer Bhaurao Patil College of Engineering, Satara",
+                    "location": "Satara",
+                    "category": "ST",
+                    "department": "Mechanical Engineering",
+                    "cutoff": 86
+                },
+                {
+                    "name": "Laxminarayan Institute of Technology (LIT), Nagpur",
+                    "location": "Nagpur",
+                    "category": "General",
+                    "department": "Computer Engineering",
+                    "cutoff": 87
+                },
+                {
+                    "name": "MGM's Jawaharlal Nehru Engineering College, Aurangabad",
+                    "location": "Aurangabad",
+                    "category": "NT",
+                    "department": "Civil Engineering",
+                    "cutoff": 84
+                },
+                {
+                    "name": "Pune Institute of Computer Technology (PICT), Pune",
+                    "location": "Pune",
+                    "category": "SC",
+                    "department": "Electronics and Telecommunication Engineering",
+                    "cutoff": 93
+                },
+                {
+                    "name": "Rizvi College of Engineering, Mumbai",
+                    "location": "Mumbai",
+                    "category": "OBC",
+                    "department": "Mechanical Engineering",
+                    "cutoff": 89
+                },
+                {
+                    "name": "Sinhgad College of Engineering, Pune",
+                    "location": "Pune",
+                    "category": "General",
+                    "department": "Civil Engineering",
+                    "cutoff": 92
+                },
+                {
+                    "name": "Dwarkadas J. Sanghvi College of Engineering, Mumbai",
+                    "location": "Mumbai",
+                    "category": "OBC",
+                    "department": "Electrical Engineering",
+                    "cutoff": 85
+                },
+                {
+                    "name": "Thadomal Shahani Engineering College, Mumbai",
+                    "location": "Mumbai",
+                    "category": "ST",
+                    "department": "Computer Engineering",
+                    "cutoff": 91
+                },
+                {
+                    "name": "Pillai College of Engineering, Navi Mumbai",
+                    "location": "Navi Mumbai",
+                    "category": "SC",
+                    "department": "Electronics and Telecommunication Engineering",
+                    "cutoff": 88
+                },
+                    {
+                        "name": "Government College of Engineering, Jalgaon",
+                        "location": "Jalgaon",
+                        "category": "OBC",
+                        "department": "Civil Engineering",
+                        "cutoff": 86
+                    },
+                    {
+                        "name": "Shivaji University, Kolhapur",
+                        "location": "Kolhapur",
+                        "category": "SC",
+                        "department": "Mechanical Engineering",
+                        "cutoff": 83
+                    },
+                    {
+                        "name": "Dr. D. Y. Patil Institute of Technology, Pune",
+                        "location": "Pune",
+                        "category": "General",
+                        "department": "Computer Engineering",
+                        "cutoff": 89
+                    },
+                    {
+                        "name": "Vidyalankar Institute of Technology, Mumbai",
+                        "location": "Mumbai",
+                        "category": "General",
+                        "department": "Electronics and Telecommunication Engineering",
+                        "cutoff": 85
+                    },
+                    {
+                        "name": "Dwarkadas J. Sanghvi College of Engineering, Mumbai",
+                        "location": "Mumbai",
+                        "category": "OBC",
+                        "department": "Mechanical Engineering",
+                        "cutoff": 87
+                    },
+                    {
+                        "name": "Pillai College of Engineering, New Panvel",
+                        "location": "New Panvel",
+                        "category": "ST",
+                        "department": "Electrical Engineering",
+                        "cutoff": 84
+                    },
+                    {
+                        "name": "Thadomal Shahani Engineering College, Mumbai",
+                        "location": "Mumbai",
+                        "category": "NT",
+                        "department": "Civil Engineering",
+                        "cutoff": 88
+                    },
+                    {
+                        "name": "Smt. Kashibai Navale College of Engineering, Pune",
+                        "location": "Pune",
+                        "category": "General",
+                        "department": "Computer Engineering",
+                        "cutoff": 86
+                    },
+                    {
+                        "name": "Sinhgad Institute of Technology, Lonavala",
+                        "location": "Lonavala",
+                        "category": "SC",
+                        "department": "Electronics and Telecommunication Engineering",
+                        "cutoff": 82
+                    },
+                    {
+                        "name": "Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology, Mumbai",
+                        "location": "Mumbai",
+                        "category": "OBC",
+                        "department": "Mechanical Engineering",
+                        "cutoff": 90
+                    },
+                    {
+                        "name": "Yeshwantrao Chavan College of Engineering, Nagpur",
+                        "location": "Nagpur",
+                        "category": "ST",
+                        "department": "Civil Engineering",
+                        "cutoff": 81
+                    },
+                    {
+                        "name": "Maharashtra Academy of Engineering, Pune",
+                        "location": "Pune",
+                        "category": "General",
+                        "department": "Electrical Engineering",
+                        "cutoff": 88
+                    }                
+]
