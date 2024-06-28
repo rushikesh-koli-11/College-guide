@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url("https://img.freepik.com/free-vector/futuristic-background-design_23-2148503793.jpg?w=996&t=st=1719494289~exp=1719494889~hmac=691d884551920e79c915af4b6878bed7d91e5524d7ea11d2888e31f5291145d4");
+    background-image: url("background.jpg");
+    
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin: 0;
@@ -10,7 +11,7 @@ body {
 
 .container {
     background-color: rgb(255, 255, 255);
-    background-image: url("https://img.freepik.com/free-vector/geometric-round-shape-white-backdrop-banner-presentation_1017-49809.jpg?w=1380&t=st=1719494587~exp=1719495187~hmac=1dfd3b213e7a042c39d48f9675659c52c6f922c26655556beebc91436893cd0b");    
+    background-image: url("cardbackground.jpg");    
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 20px;
@@ -23,6 +24,7 @@ body {
 
 .heading{
     text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 form {
@@ -32,17 +34,19 @@ form {
 
 label {
     margin-top: 10px;
+    font-weight: 700;
 }
 
 input, select, button {
     margin-top: 5px;
     padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
+    border: 1px solid #000000;
+    border-radius: 5px;
 }
 
 button {
     background-color: #007bff;
+    border: 1px solid #000000 !important;
     color: white;
     border: none;
     cursor: pointer;
@@ -74,6 +78,7 @@ button:hover {
     text-align: center;
     margin-top: 5rem;
 }
+
 
 p a{
     text-decoration: none;
