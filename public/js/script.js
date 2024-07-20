@@ -24,7 +24,7 @@ document.getElementById('filter-form').addEventListener('submit', function(e) {
             thead.innerHTML = `
                 <tr>
                     <th>College Name</th>
-                    <th>Cutoff (%)</th>
+                    <th>Last year Cutoff</th>
                 </tr>
             `;
             table.appendChild(thead);
