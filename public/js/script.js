@@ -51,3 +51,5 @@ document.getElementById('filter-form').addEventListener('submit', function(e) {
         const resultsDiv = document.getElementById('results');
         resultsDiv.innerHTML = '<p>Error fetching data. Please try again later.</p>';
     });
+
+});
